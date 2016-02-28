@@ -1,0 +1,17 @@
+_repo: The-Bible-Douay-Rheims-Book-66-James-The-Challoner-Revision_8366
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. James'
+title: 'The Bible, Douay-Rheims, Book 66: James
+
+  The Challoner Revision'
+url: http://www.gutenberg.org/ebooks/8366
